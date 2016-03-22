@@ -1,4 +1,4 @@
-var APPLICATION_CODE = "XXXXX-XXXXX"; // Your Application Code from Pushwoosh
+var APPLICATION_CODE = "DC261-5E500"; // Your Application Code from Pushwoosh
 var pushDefaultImage = 'https://cp.pushwoosh.com/img/logo-medium.png';
 var pushDefaultTitle = 'Title';
 var pushDefaultUrl = '/';
