@@ -1,4 +1,4 @@
-var APPLICATION_CODE = "XXXXX-XXXXX"; // Your Application Code from Pushwoosh
+var APPLICATION_CODE = "DC261-5E500"; // Your Application Code from Pushwoosh
 var SERVICE_WORKER_URL = '/service-worker.js';
 var pushwooshUrl = "https://cp.pushwoosh.com/json/1.3/";
 var hwid = "";
